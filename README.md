@@ -2,7 +2,7 @@
 
 <H3>Overview</H3>
 
-This repository contains the code and analysis for a fraud detection . The goal was to classify whether a transaction was fraudulent based on transactional and identity data. The dataset consisted of approximately 590,540 training samples (3.5% fraud) and 506,691 test samples.
+This repository contains the code and analysis for a fraud detection . The goal was to classify whether a transaction was fraudulent based on transactional and identity data. The dataset consisted of approximately 590,540 training samples (3.5% fraud), 506,691 test samples and with 394 features.
 
 <h3>Dataset</h3>
  <h4>IEEE-CIS Fraud Detection Kaggle Competition Dataset</h4>
