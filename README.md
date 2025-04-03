@@ -78,4 +78,4 @@ This repository contains the code and analysis for a fraud detection . The goal 
     <li>Outliers</li>
 </ul>
 
- 
+ <b>LSTM gives the best CV auc results.</b>
