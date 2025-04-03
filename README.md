@@ -35,45 +35,40 @@ This repository contains the code and analysis for a fraud detection . The goal 
         <th>Model</th>
         <th>Public Score (AUC)</th>
         <th>Private Score (AUC)</th>
-        
     </tr>
     <tr>
         <td>Logistic Regression</td>
         <td>0.850</td>
         <td>0.830</td>
-        
     </tr>
     <tr>
         <td>Decision Tree</td>
         <td>0.800</td>
         <td>0.780</td>
-        
     </tr>
     <tr>
         <td>Random Forest</td>
         <td>0.910</td>
         <td>0.890</td>
-        
     </tr>
     <tr>
         <td>LGBM</td>
         <td>0.961</td>
         <td>0.938</td>
-        
     </tr>
     <tr>
         <td>CNN</td>
         <td>0.930</td>
         <td>0.910</td>
-       
     </tr>
     <tr>
         <td>LSTM</td>
         <td>0.920</td>
         <td>0.900</td>
-        
     </tr>
 </table>
+
+
  <h3> Challenges: </h3>
     
     <ul>
