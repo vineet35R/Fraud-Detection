@@ -19,3 +19,61 @@ This repository contains the code and analysis for a fraud detection . The goal 
         <li><strong>M1-M9:</strong> Match, such as names on card and address, etc.</li>
         <li><strong>Vxxx:</strong> Vesta engineered rich features, including ranking, counting, and other entity relations. Some V features are missing in different proportions.</li>
     </ul>
+
+<h3> Model</h3>
+ <ul>
+        <li>Logistic Regression</li>
+        <li>Decision Tree</li>
+        <li>Random Forest</li>
+        <li>LGBM</li>
+        <li>CNN</li>
+        <li>LSTM</li>
+ </ul>
+<h3> Performance</h3>
+<table border="1">
+    <tr>
+        <th>Model</th>
+        <th>Public Score (AUC)</th>
+        <th>Private Score (AUC)</th>
+        <th>Rank</th>
+    </tr>
+    <tr>
+        <td>Logistic Regression</td>
+        <td>0.850</td>
+        <td>0.830</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>Decision Tree</td>
+        <td>0.800</td>
+        <td>0.780</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>Random Forest</td>
+        <td>0.910</td>
+        <td>0.890</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>LGBM</td>
+        <td>0.961</td>
+        <td>0.938</td>
+        <td>🥈 Silver Medal</td>
+    </tr>
+    <tr>
+        <td>CNN</td>
+        <td>0.930</td>
+        <td>0.910</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>LSTM</td>
+        <td>0.920</td>
+        <td>0.900</td>
+        <td>--</td>
+    </tr>
+</table>
+ 
+
+ 
