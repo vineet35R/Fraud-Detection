@@ -69,13 +69,13 @@ This repository contains the code and analysis for a fraud detection . The goal 
 </table>
 
 
- <h3> Challenges: </h3>
-    
-    <ul>
-        <li>A Sparsity of the Dataset</li>
-        <li>A lot of missing values</li>
-        <li>Imbalanced <code>isFraud</code> variable</li>
-        <li>Outliers</li>
-    </ul>
+ <h3>Challenges:</h3>
+
+<ul>
+    <li>Sparsity of the Dataset</li>
+    <li>A lot of missing values</li>
+    <li>Imbalanced <code>isFraud</code> variable</li>
+    <li>Outliers</li>
+</ul>
 
  
