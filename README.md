@@ -38,33 +38,33 @@ This repository contains the code and analysis for a fraud detection . The goal 
     </tr>
     <tr>
         <td>Logistic Regression</td>
-        <td>0.850</td>
-        <td>0.830</td>
+        <td>0.8461</td>
+        <td>0.8477</td>
     </tr>
     <tr>
         <td>Decision Tree</td>
-        <td>0.800</td>
-        <td>0.780</td>
+        <td>0.9574</td>
+        <td>0.8248</td>
     </tr>
     <tr>
         <td>Random Forest</td>
-        <td>0.910</td>
-        <td>0.890</td>
+        <td>0.9999</td>
+        <td>0.8903</td>
     </tr>
     <tr>
         <td>LGBM</td>
-        <td>0.961</td>
-        <td>0.938</td>
+        <td>0.9891</td>
+        <td>0.9477</td>
     </tr>
     <tr>
         <td>CNN</td>
-        <td>0.930</td>
-        <td>0.910</td>
+        <td>0.9531</td>
+        <td>0.9210</td>
     </tr>
     <tr>
         <td>LSTM</td>
-        <td>0.920</td>
-        <td>0.900</td>
+        <td>0.9900</td>
+        <td>0.9701</td>
     </tr>
 </table>
 
