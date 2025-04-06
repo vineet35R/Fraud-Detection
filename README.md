@@ -15,7 +15,7 @@ This repository contains the code and analysis for a fraud detection . The goal 
         <li><strong>dist:</strong> Distances between (not limited) billing address, mailing address, zip code, IP address, phone area, etc.</li>
         <li><strong>P_ and R_ emaildomain:</strong> Purchaser and recipient email domain, some transactions do not require the recipient, and the corresponding Remaildomain is empty.</li>
         <li><strong>C1-C14:</strong> Counting, such as how many addresses are found to be associated with the payment card, etc.</li>
-        <li><strong>D1-D15:</strong> Timedelta, such as days between previous transaction, etc.</li>
+        <li><strong>D1-D15:</strong> Timedelta, such as days between previous transaction, etc .</li>
         <li><strong>M1-M9:</strong> Match, such as names on card and address, etc.</li>
         <li><strong>Vxxx:</strong> Vesta engineered rich features, including ranking, counting, and other entity relations. Some V features are missing in different proportions.</li>
     </ul>
